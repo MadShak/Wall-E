@@ -7,7 +7,8 @@
 * `sudo pip3 install opencv-python`
 * `sudo pip3 install selenium`
 
-_**Coso tu uses windows, deves baixar o geckodriver inerente, no link https://github.com/mozilla/geckodriver/releases e substituir a versão linux que vai no projeto.**_
+_**Windows, baixar geckodriver, link https://github.com/mozilla/geckodriver/releases
+Substituir versão linux no projeto.**_
 
 ### Como usar:
 
