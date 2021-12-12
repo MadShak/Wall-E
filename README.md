@@ -1,17 +1,17 @@
 # CS50X - FinalProject
 # Wall-E
-## Votebot para o BigBrotherBrasil com interpretador CAPTCHA.
+## Votebot for BigBrotherBrasil with CAPTCHA interpreter.
 
-### Preparando o ambiente...
+### preparing the environment...
 
 * `sudo apt-get install python3`
 * `sudo pip3 install opencv-python`
 * `sudo pip3 install selenium`
 
-_**Windows: baixar geckodriver (https://github.com/mozilla/geckodriver/releases) e substituir versão linux no projeto.**_
+_**Windows: download geckodriver (https://github.com/mozilla/geckodriver/releases) and replace linux version in project.**_
 
-### Como usar:
+### How to use:
 
-* Atualize o banco de imagem CAPTCHA;
-* Atualize o WebLink da variável URL (Wall-E.py:11);
-* Execute o arquivo Wall-E.py `python3 Wall-E.py`
+* Update the CAPTCHA image bank;
+* Update the URL variable WebLink (Wall-E.py:11);
+* Run the Wall-E.py file `python3 Wall-E.py`
