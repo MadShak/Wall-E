@@ -15,3 +15,5 @@ _**Windows: download geckodriver (https://github.com/mozilla/geckodriver/release
 * Update the CAPTCHA image bank;
 * Update the URL variable WebLink (Wall-E.py:11);
 * Run the Wall-E.py file `python3 Wall-E.py`
+
+## Youtube demo video: https://youtu.be/ROFaoj12mxQ
